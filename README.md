@@ -1,5 +1,5 @@
 # curso-java
 
-Arquivos criados nas aulas de JS do canal CursoEmVideo, de Gustavo Guanabara.
+Arquivos criados nas aulas de Java da Alura.
 
-Uteis para o estudo e o entendimento dos conceitos básicos de JavaScript
+Uteis para o estudo e o entendimento dos conceitos básicos em Java.
